@@ -16,7 +16,7 @@ To evaluate the strength of various types of passwords using an online password 
 | `Balls@12475`         | 100%      | Very Strong    |
 | `Balls@ofthe12475`    | 100%      | Very Strong    |
 
-📸 **All screenshots are saved in the `screenshots/` folder.**
+**All screenshots are saved in the `screenshots/` folder.**
 
 ---
 
@@ -29,7 +29,7 @@ To evaluate the strength of various types of passwords using an online password 
 
 ---
 
-## 📚 Key Concepts
+## Key Concepts
 
 ### What Makes a Password Strong?
 - Length: **12+ characters**
